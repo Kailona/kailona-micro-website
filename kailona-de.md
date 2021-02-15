@@ -75,4 +75,4 @@ Kailona ("kailo-" Proto-Indo-European für "ganz, unverletzt, von gutem Omen") b
 
 Wir sind ein internationales Team von Designern, Soziologen, Anthropologen und Ingenieuren, die sich leidenschaftlich für die Würde, Selbstbestimmung, das Vertrauen und die Heilung von Menschen auf der ganzen Welt einsetzen.
 
-Das Kailona-Team ist stolz darauf, vom Prototype Fund, einem Projekt der Open Knowledge Foundation Deutschland, gefördert zu werden, der vom Bundesministerium für Bildung und Forschung (BMBF) Förderkennzeichen 01 | S20S38, MEDKEN, ACANIO und TOCA finanziert wird.
+Das Kailona-Team ist stolz darauf, vom Prototype Fund, einem Projekt der Open Knowledge Foundation Deutschland (gefördert durch das Bundesministerium für Bildung und Forschung, MEDKEN, ACANIO und TOCA  finanziert zu werden.
